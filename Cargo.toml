@@ -1,0 +1,4 @@
+[package]
+name = "term_text"
+version = "0.1.0"
+authors = ["Ramsey Darling <rdarling42@gmail.com>"]
