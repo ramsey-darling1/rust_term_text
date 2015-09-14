@@ -32,7 +32,7 @@ fn main() {
 
     //create the post request 
     let mut request = client.post("http://textbelt.com/text")
-        .body("number=7342395992&message=this is a test").send().unwrap();
+        .body("number=7342395992&message=thisisatesttest").send().unwrap();
 
     //read the response
     let mut body = String::new();
